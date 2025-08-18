@@ -346,36 +346,36 @@
     "detail": "http://fty.888484.xyz"
 },
 "rrys": {
-"api": "http://43.154.198.47:8282/gather/json",
-"name": "人人影视",
-"detail": "https://rrys.cc/movielist"
-}，
+     "api": "http://43.154.198.47:8282/gather/json",
+      "name": "人人影视",
+      "detail": "https://rrys.cc/movielist"
+},
 "api_31": {
             "name": "TV-红牛new",
             "api": "https://hongniuzy.tv/api.php/provide/vod/?ac=list",
             "detail": "https://hongniuzy.tv"
-        },
+},
     "subo": {
       "api": "https://www.suboziyuan.net/api.php/provide/vod/?ac=list",
       "name": "速播",
       "detail": "https://www.suboziyuan.net/"
-    }，
+ },
     "taopian": {
       "api": "https://www.taopianzy.com/api.php/provide/vod/?ac=list",
       "name": "淘片",
       "detail": "https://www.taopianzy.com/"
-    },
+},
    "wujin": {
       "api": "https://www.wujinzy.net/api.php/provide/vod/?ac=list",
       "name": "无尽资源",
       "detail": "https://www.wujinzy.net/"
-    },
+ },
  
 "baofeng": {
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "name": "暴风资源",
       "detail": "https://bfzy1.tv/"
-    },
+},
 "ikun": {
       "api": "https://www.ikunzy.com/api.php/provide/vod/?ac=list",
       "name": "爱坤资源",
