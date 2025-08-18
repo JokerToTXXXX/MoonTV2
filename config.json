@@ -314,6 +314,36 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-        }
+        },
+    "api_8": {
+    "name": "TV-影视仓",
+    "api": "http://影视仓.com/",
+    "detail": "http://影视仓.com/"
+},
+"api_9": {
+    "name": "TV-肥猫接口",
+    "api": "http://ceshi.肥猫.com/PandaQ",
+    "detail": "http://ceshi.肥猫.com"
+},
+"api_10": {
+    "name": "TV-肥猫备用",
+    "api": "http://肥猫.com",
+    "detail": "http://肥猫.com"
+},
+    "api_11": {
+    "name": "TV-饭太硬主接口",
+    "api": "http://www.饭太硬.com/tv",
+    "detail": "http://www.饭太硬.com"
+},
+"api_12": {
+    "name": "TV-饭太硬备用1",
+    "api": "http://fty.xxooo.cf/tv",
+    "detail": "http://fty.xxooo.cf"
+},
+"api_13": {
+    "name": "TV-饭太硬备用2",
+    "api": "http://fty.888484.xyz/tv",
+    "detail": "http://fty.888484.xyz"
+}
   }
 }
