@@ -317,8 +317,8 @@
         },
     "api_8": {
     "name": "TV-影视仓",
-    "api": "http://影视仓.com/",
-    "detail": "http://影视仓.com/"
+    "api": "http://影视仓.com",
+    "detail": "http://影视仓.com"
 },
 "api_9": {
     "name": "TV-肥猫接口",
@@ -358,28 +358,28 @@
     "subo": {
       "api": "https://www.suboziyuan.net/api.php/provide/vod/?ac=list",
       "name": "速播",
-      "detail": "https://www.suboziyuan.net/"
+      "detail": "https://www.suboziyuan.net"
  },
     "taopian": {
       "api": "https://www.taopianzy.com/api.php/provide/vod/?ac=list",
       "name": "淘片",
-      "detail": "https://www.taopianzy.com/"
+      "detail": "https://www.taopianzy.com"
 },
    "wujin": {
       "api": "https://www.wujinzy.net/api.php/provide/vod/?ac=list",
       "name": "无尽资源",
-      "detail": "https://www.wujinzy.net/"
+      "detail": "https://www.wujinzy.net"
  },
  
 "baofeng": {
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "name": "暴风资源",
-      "detail": "https://bfzy1.tv/"
+      "detail": "https://bfzy1.tv"
 },
 "ikun": {
       "api": "https://www.ikunzy.com/api.php/provide/vod/?ac=list",
       "name": "爱坤资源",
-      "detail": "https://www.ikunzy.com/"
+      "detail": "https://www.ikunzy.com"
     }
   }
 }
