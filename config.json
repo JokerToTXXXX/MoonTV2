@@ -153,6 +153,41 @@
             "api": "https://cj.yayazy.net/api.php/provide/vod",
             "name": "TV-丫丫点播",
             "detail": "https://cj.yayazy.net"
+    },
+    "api_8": {
+            "api": "https://api.guangsuapi.com/api.php/provide/vod",
+            "name": "TV-光速资源",
+            "detail": "https://api.guangsuapi.com"
+    },
+    "api_9": {
+            "api": "https://guangsuzy.com/api.php/provide/vod/?ac=list",
+            "name": "TV-光速资源1",
+            "detail": "https://guangsuzy.com"
+    },
+    "api_10": {
+            "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+            "name": "TV-卧龙资源",
+            "detail": "https://collect.wolongzy.cc"
+    },    
+    "api_11": {
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+            "name": "TV-卧龙资源1",
+            "detail": "https://collect.wolongzyw.com"
+    },
+    "api_12": {
+            "api": "https://wolongzyw.com/api.php/provide/vod",
+            "name": "TV-卧龙资源2",
+            "detail": "https://wolongzyw.com"
+    },
+    "api_13": {
+            "api": "https://www.mdzyapi.com/api.php/provide/vod",
+            "name": "TV-墨斗资源",
+            "detail": "https://www.mdzyapi.com"
+    },
+    "api_14": {
+            "api": "https://tyyszy.com/api.php/provide/vod",
+            "name": "TV-天涯资源",
+            "detail": "https://tyyszy.com"
     }
   }
 }
