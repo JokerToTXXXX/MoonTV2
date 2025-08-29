@@ -303,11 +303,6 @@
             "api": "http://43.154.198.47:8282/gather/json",
             "name": "TV-人人影视",
             "detail": "https://rrys.cc/movielist"
-       },
-    "api_45": {
-            "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
-            "name": "TV-淘片",
-            "detail": "https://www.taopianzy.com/index.html"
        }
    }
 }
