@@ -303,26 +303,6 @@
             "api": "http://43.154.198.47:8282/gather/json",
             "name": "TV-人人影视",
             "detail": "https://rrys.cc/movielist"
-    },
-    "api_45": {
-            "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
-            "name": "TV-淘片",
-            "detail": "https://www.taopianzy.com/index.html"
-    },
-    "api_46": {
-            "api": "https://kuaichezy.vip/api.php/provide/vod/?ac=list",
-            "name": "TV-快车资源",
-            "detail": "https://kuaichezy.vip"
-    },
-    "api_49": {
-            "api": "https://api.yzzy-api.com/inc/apijson.php",
-            "name": "TV-优质",
-            "detail": "https://www.yzzy.tv"
-    },
-  "api_37": {
-            "api": "https://sdzyapi.com/api.php/provide/vod",
-            "name": "TV-闪电",
-            "detail": "https://sdzyapi.com"
-    }
+    }    }
   }
 }
