@@ -97,6 +97,62 @@
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "name": "TV-1080资源库",
             "detail": "https://api.1080zyku.com"
+    },
+    "api_47": {
+            "api": "http://zhangqun66.xyz/cjjh.php",
+            "name": "TV-切片合集1"
+    },
+    "api_48": {
+            "api": "http://zhangqun1818.serv00.net/klhj.php",
+             "name": "TV-切片合集2"
+    },
+    "api_2": {
+            "api": "https://360zy.com/api.php/provide/vod",
+            "name": "TV-360资源",
+            "detail": "https://360zy.com"
+    },
+    "api_3": {
+            "api": "https://ckzy.me/api.php/provide/vod",
+            "name": "TV-CK资源",
+            "detail": "https://ckzy.me"
+    },
+    "api_4": {
+            "api": "https://api.ukuapi.com/api.php/provide/vod",
+            "name": "TV-U酷资源",
+            "detail": "https://api.ukuapi.com"
+    },
+    "api_5": {
+            "api": "https://api.ukuapi88.com/api.php/provide/vod",
+            "name": "TV-U酷资源1",
+            "detail": "https://www.ukuzy.com"
+    },
+    "api_6": {
+            "api": "https://ikunzyapi.com/api.php/provide/vod",
+            "name": "TV-ikun资源",
+            "detail": "https://ikunzyapi.com"
+    },
+    "api_61": {
+            "api": "https://www.ikunzy.com/api.php/provide/vod/?ac=list",
+            "name": "TV-爱坤资源",
+            "detail": "https://www.ikunzy.com"
+    },
+    "api_7": {
+            "api": "https://www.wujinzy.net/api.php/provide/vod/?ac=list",
+            "name": "TV-无尽资源",
+            "detail": "https://www.wujinzy.net"
+    },
+    "api_71": {
+            "api": "https://api.wujinapi.com/api.php/provide/vod",
+            "name": "TV-无尽资源1"
+    },
+    "api_72": {
+            "api": "https://api.wujinapi.me/api.php/provide/vod",
+            "name": "TV-无尽资源2"
+    },
+    "api_73": {
+            "api": "https://cj.yayazy.net/api.php/provide/vod",
+            "name": "TV-丫丫点播",
+            "detail": "https://cj.yayazy.net"
     }
   }
 }
