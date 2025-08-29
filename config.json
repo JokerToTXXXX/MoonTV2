@@ -309,11 +309,10 @@
             "name": "TV-淘片",
             "detail": "https://www.taopianzy.com/index.html"
     },
-    "api_49": {
-            "api": "https://api.yzzy-api.com/inc/apijson.php",
-            "name": "TV-优质",
-            "detail": "https://www.yzzy.tv"
-    
+    "api_37": {
+            "api": "https://sdzyapi.com/api.php/provide/vod",
+            "name": "TV-闪电",
+            "detail": "https://sdzyapi.com"
      }
    }
 }
