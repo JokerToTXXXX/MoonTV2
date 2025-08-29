@@ -313,5 +313,6 @@
             "api": "https://api.yzzy-api.com/inc/apijson.php",
             "name": "TV-优质",
             "detail": "https://www.yzzy.tv"
+       }
    }
 }
