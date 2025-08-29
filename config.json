@@ -13,8 +13,7 @@
     },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源",
-      "detail": "https://www.ryzy.tv"
+      "name": "如意资源"
     },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -35,8 +34,7 @@
     },
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台资源",
-      "detail": "https://caiji.maotaizy.cc"
+      "name": "茅台资源"
     },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
@@ -49,18 +47,15 @@
     },
     "dbzy": {
       "api": "https://dbzy.tv/api.php/provide/vod",
-      "name": "豆瓣资源",
-      "detail": "https://dbzy.tv"
+      "name": "豆瓣资源"
     },
     "mozhua": {
       "api": "https://mozhuazy.com/api.php/provide/vod",
-      "name": "魔爪资源",
-      "detail": "https://mzzy.me"
+      "name": "魔爪资源"
     },
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源",
-      "detail": "https://moduzy.com"
+      "name": "魔都资源"
     },
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
@@ -88,8 +83,7 @@
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源",
-      "detail": "https://zy.xmm.hk"
+      "name": "小猫咪资源"
     }
   }
 }
