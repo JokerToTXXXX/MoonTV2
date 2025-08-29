@@ -298,11 +298,7 @@
             "api": "https://caiji.moduapi.cc/api.php/provide/vod",
             "name": "TV-魔都动漫",
             "detail": "https://caiji.moduapi.cc"
-     },
-    "api_44": {
-            "api": "http://43.154.198.47:8282/gather/json",
-            "name": "TV-人人影视",
-            "detail": "https://rrys.cc/movielist"
+     
        }
    }
 }
