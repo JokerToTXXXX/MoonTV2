@@ -308,11 +308,6 @@
             "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
             "name": "TV-淘片",
             "detail": "https://www.taopianzy.com/index.html"
-    },
-    "api_37": {
-            "api": "https://sdzyapi.com/api.php/provide/vod",
-            "name": "TV-闪电",
-            "detail": "https://sdzyapi.com"
-     }
+       }
    }
 }
