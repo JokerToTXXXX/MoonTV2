@@ -253,6 +253,49 @@
             "api": "https://hongniuzy.tv/api.php/provide/vod/?ac=list",
             "name": "TV-红牛资源1",
             "detail": "https://hongniuzy.tv"
+    },
+    "api_291": {
+            "api": "https://www.huyaapi.com/api.php/provide/vod",
+            "name": "TV-虎牙资源",
+            "detail": "https://www.huyaapi.com"
+    },
+    "api_29": {
+            "api": "https://huyazy.net/api.php/provide/vod/?ac=list",
+            "name": "TV-虎牙资源1",
+            "detail": "https://huyazy.net"
+    },
+    "api_30": {
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+            "name": "TV-豆瓣资源",
+            "detail": "https://caiji.dbzy.tv"
+    },
+    "api_31": {
+            "api": "https://hhzyapi.com/api.php/provide/vod",
+            "name": "TV-豪华资源",
+            "detail": "https://hhzyapi.com"
+    },
+    "api_32": {
+            "api": "https://subocaiji.com/api.php/provide/vod",
+            "name": "TV-速播资源"
+     },
+    "api_33": {
+            "api": "https://www.suboziyuan.net/api.php/provide/vod/?ac=list",
+            "name": "TV-速播",
+            "detail": "https://www.suboziyuan.net"
+    },
+    "api_34": {
+            "api": "https://cj.lziapi.com/api.php/provide/vod",
+            "name": "TV-量子资源"
+    },
+    "api_35": {
+            "api": "https://jinyingzy.com/api.php/provide/vod",
+            "name": "TV-金鹰点播",
+            "detail": "https://jinyingzy.com"
+    },
+    "api_36": {
+            "api": "https://jyzyapi.com/api.php/provide/vod",
+            "name": "TV-金鹰资源",
+            "detail": "https://jyzyapi.com"
     }
   }
 }
