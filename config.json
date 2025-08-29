@@ -298,12 +298,7 @@
             "api": "https://caiji.moduapi.cc/api.php/provide/vod",
             "name": "TV-魔都动漫",
             "detail": "https://caiji.moduapi.cc"
-   },
-    "api_42": {
-             "api": "https://json02.heimuer.xyz/api.php/provide/vod",
-             "name": "TV-黑木耳点播",
-             "detail": "https://json02.heimuer.xyz"
-  
+ 
     }
   }
 }
