@@ -274,19 +274,10 @@
             "name": "TV-豪华资源",
             "detail": "https://hhzyapi.com" 
     },
-    "api_32": {
-            "api": "https://subocaiji.com/api.php/provide/vod",
-            "name": "TV-速播资源"
-     },
     "api_33": {
             "api": "https://www.suboziyuan.net/api.php/provide/vod/?ac=list",
             "name": "TV-速播",
             "detail": "https://www.suboziyuan.net"
-    },
-    "api_35": {
-            "api": "https://jinyingzy.com/api.php/provide/vod",
-            "name": "TV-金鹰点播",
-            "detail": "https://jinyingzy.com"
     },
     "api_36": {
             "api": "https://jyzyapi.com/api.php/provide/vod",
